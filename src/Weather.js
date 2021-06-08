@@ -69,6 +69,16 @@ export default function Weather() {
                 Wind: {weatherData.wind} km/h
               </div>
             </div>
+            <footer>
+              <a
+                href="https://github.com/HamburgNinja/react-weather-app"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Open-source code
+              </a>
+              by HamburgNinja
+            </footer>
           </div>
         </div>
       </div>
