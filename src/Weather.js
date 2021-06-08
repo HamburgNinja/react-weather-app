@@ -78,7 +78,7 @@ export default function Weather() {
             >
               Open-source code
             </a>
-            by HamburgNinja
+            <span> by HamburgNinja</span>
           </footer>
         </div>
       </div>
